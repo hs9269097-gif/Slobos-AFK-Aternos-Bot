@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play-LordsMC.aternos.me",
-    "port": 57697,
-    "version": "1.21.11",
+    "ip": "reynixsmp.aternos.me",
+    "port": 41328,
+    "version": "1.21.4",
     "try-creative": true
   },
   "position": {
