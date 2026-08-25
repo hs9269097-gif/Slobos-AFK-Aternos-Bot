@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play-LordsMC.aternos.me",
-    "port": 57697,
+    "ip": "FAKEPAYSMP.aternos.me",
+    "port": 33390,
     "version": "1.21.11",
     "try-creative": true
   },
